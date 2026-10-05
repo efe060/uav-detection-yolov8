@@ -1,0 +1,2 @@
+ultralytics>=8.1
+roboflow>=1.1   # only needed to download the dataset

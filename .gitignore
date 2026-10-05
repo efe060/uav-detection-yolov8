@@ -1,0 +1,16 @@
+# datasets and training outputs
+uavson-*/
+runs/
+*.cache
+
+# model weights are published on the Releases page, not in git
+*.pt
+*.onnx
+*.engine
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.env
